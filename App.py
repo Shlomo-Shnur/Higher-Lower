@@ -42,4 +42,5 @@ def play():
             return
 
 
-play()
+if __name__ == "__main__":
+    play()
